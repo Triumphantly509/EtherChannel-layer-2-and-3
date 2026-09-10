@@ -14,7 +14,7 @@
 ## Lab topology
 
 <div>
-  <img width="651" height="330" alt="image" src="https://github.com/user-attachments/assets/b90ff012-2a0b-498c-b25c-002522e95228" />
+ <img width="715" height="308" alt="image" src="https://github.com/user-attachments/assets/c713186f-3968-40c7-beec-04665afb623f" />
 </div>
 
 ## Enable Ip routing on the switches.
