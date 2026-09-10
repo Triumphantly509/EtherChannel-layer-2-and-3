@@ -24,7 +24,7 @@
 </div>
 
 ## Enable layer 3 routed interfaces on the switch 6.
- /<div>
+ <div>
   <img width="743" height="361" alt="image" src="https://github.com/user-attachments/assets/c328f235-2cc2-4c6a-9042-a0fb7fa1f293" />
 </div>
 
