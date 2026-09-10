@@ -20,7 +20,7 @@
 ## Enable Ip routing on the switches.
 
 <div>
-  <img width="229" height="19" alt="image" src="https://github.com/user-attachments/assets/ba3bd37d-03f3-4c7a-b568-99b3e4d27982" />
+  <img width="715" height="308" alt="image" src="https://github.com/user-attachments/assets/e89cb487-d168-4ae2-966b-b315674a66cb" />
 </div>
 
 ## Enable layer 3 routed interfaces on the switch 6.
@@ -111,4 +111,6 @@
 <div>
   <img width="476" height="179" alt="image" src="https://github.com/user-attachments/assets/77f318a9-8fd5-43cf-bf02-58525a6c2f5d" />
 </div>
+
+## conclusion
 
